@@ -2,7 +2,7 @@ import React from 'react'
 import { company_logos } from '../assets/assets'
 import { motion } from "motion/react"
 
-const Trustedby = () => {
+const TrustedBy = () => {
   return (
     <motion.div 
     initial = {{opacity:0, y:30}}
@@ -38,4 +38,4 @@ const Trustedby = () => {
   )
 }
 
-export default Trustedby
+export default TrustedBy
