@@ -1,7 +1,7 @@
 import React, { useEffect, useRef, useState } from 'react'
 import Navbar from './components/Navbar'
 import Hero from './components/Hero';
-import Trustedby from './components/Trustedby';
+import TrustedBy from './components/TrustedBy';
 import Services from './components/Services';
 import OurWork from './components/OurWork';
 import Teams from './components/Teams';
@@ -52,7 +52,7 @@ useEffect(()=>{
       <Toaster/>
       <Navbar theme={theme} setTheme={setTheme}/>
       <Hero/>
-      <Trustedby/>
+      <TrustedBy/>
       <Services/>
       <OurWork/>
       <Teams/>
