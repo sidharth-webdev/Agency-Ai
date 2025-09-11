@@ -34,7 +34,7 @@ The website includes a **contact form** that allows users to send emails directl
 ---
 
 ## 🔗 Live Demo
-👉 [View Project on Netlify](https://agency-ai-qenj.vercel.app/)  
+👉 [View Project on Vercel](https://agency-ai-qenj.vercel.app/)  
 
 ---
 
